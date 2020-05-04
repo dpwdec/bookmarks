@@ -67,6 +67,10 @@
           1,
           1,
           null,
+          1,
+          1,
+          1,
+          null,
           null,
           null
         ]
@@ -74,22 +78,28 @@
       "/Users/student/Documents/week-4/afternoon/paula/bookmarks/lib/bookmark.rb": {
         "lines": [
           1,
+          null,
+          1,
           1,
           null,
           1,
-          11,
-          11,
+          5,
+          5,
           null,
           null,
           1,
           2,
+          2,
+          2,
+          2,
+          6,
           null,
-          null,
+          2,
           null,
           null
         ]
       }
     },
-    "timestamp": 1588603060
+    "timestamp": 1588607996
   }
 }
