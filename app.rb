@@ -3,7 +3,7 @@ require 'sinatra'
 class Bookmarks < Sinatra::Base
   
   get '/' do 
-    'Hello World'
+    'Testing stuff'
   end 
 end 
 

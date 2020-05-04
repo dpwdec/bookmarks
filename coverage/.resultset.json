@@ -8,13 +8,23 @@
           1,
           null,
           1,
-          0,
+          1,
           null,
+          null,
+          null
+        ]
+      },
+      "/Users/paulandariasperez/Desktop/MAKERS/cloned_repos/bookmarks/spec/features/testing_infrastructure_test_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
           null,
           null
         ]
       }
     },
-    "timestamp": 1588600339
+    "timestamp": 1588600762
   }
 }
