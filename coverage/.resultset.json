@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/paulandariasperez/Desktop/MAKERS/cloned_repos/bookmarks/app.rb": {
+      "/Users/student/Documents/week-4/afternoon/paula/bookmarks/app.rb": {
         "lines": [
           1,
           null,
@@ -11,10 +11,25 @@
           1,
           null,
           null,
+          1,
+          1,
+          null,
           null
         ]
       },
-      "/Users/paulandariasperez/Desktop/MAKERS/cloned_repos/bookmarks/spec/features/testing_infrastructure_test_spec.rb": {
+      "/Users/student/Documents/week-4/afternoon/paula/bookmarks/spec/features/bookmarks_list_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/student/Documents/week-4/afternoon/paula/bookmarks/spec/features/testing_infrastructure_test_spec.rb": {
         "lines": [
           1,
           1,
@@ -25,6 +40,6 @@
         ]
       }
     },
-    "timestamp": 1588600762
+    "timestamp": 1588601630
   }
 }
