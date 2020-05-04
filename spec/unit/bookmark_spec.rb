@@ -15,4 +15,10 @@ describe Bookmark do
       expect(subject.url).to eq('https://www.google.com/')
     end
   end
+
+  describe '.all' do
+    it 'returns a list of bookmarks' do
+      expect(described_class.all[0].name).to eq('Google')
+    end
+  end
 end
