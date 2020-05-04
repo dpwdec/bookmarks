@@ -38,8 +38,23 @@
           null,
           null
         ]
+      },
+      "/Users/student/Documents/week-4/afternoon/paula/bookmarks/spec/unit/bookmark_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/student/Documents/week-4/afternoon/paula/bookmarks/lib/bookmark.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1588601630
+    "timestamp": 1588601768
   }
 }
