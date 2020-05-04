@@ -9,12 +9,15 @@ class Bookmark
   end
 
   def self.all
+    # PG => log into our database => psql
+    # \c bookmark_manager
     connection = PG.connect(dbname: 'bookmark_manager')
+    # SELECT * FROM bookmarks;
     result = connection.exec('SELECT * FROM bookmarks;')
     bookmarks = []
     result.each do |bookmark|
       bookmarks << bookmark['url']
     end
-    bookmarks
+    return bookmarks
   end
 end
